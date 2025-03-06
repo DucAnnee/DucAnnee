@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭 Computer Science Student | Ho Chi Minh University of Technology
-⚡ I have a strong ability to oversee projects from end to end, combining technical expertise with a deep sense of empathy—enhancing my leadership skills. My unwavering determination drives me to continuously seek opportunities for growth and excellence.
-🤝 Currently looking for internship opportunities in AI/ML, with a particular focus on Computer Vision.
+🔭 Computer Science Student | Ho Chi Minh University of Technology<br>
+⚡ I have a strong ability to oversee projects from end to end, combining technical expertise with a deep sense of empathy—enhancing my leadership skills. My unwavering determination drives me to continuously seek opportunities for growth and excellence.<br>
+🤝 Currently looking for internship opportunities in AI/ML, with a particular focus on Computer Vision.<br><br><br><br>
 
 
 ## 🌐 Socials:
