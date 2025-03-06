@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 Currently working on my Computer Science Bachelor at Ho Chi Minh University of Technology<br>⚡ As driven leader with great interpersonal skill, I meticulously oversee every aspect, ensuring perfection in execution. My unwavering determination fuels my relentless pursuit of opportunities for growth and excellence.<br>🤝 Looking for internship opportunities.<br><br><br><br>
+🔭 Computer Science Student | Ho Chi Minh University of Technology
+⚡ I have a strong ability to oversee projects from end to end, combining technical expertise with a deep sense of empathy—enhancing my leadership skills. My unwavering determination drives me to continuously seek opportunities for growth and excellence.
+🤝 Currently looking for internship opportunities in AI/ML, with a particular focus on Computer Vision.
 
 
 ## 🌐 Socials:
